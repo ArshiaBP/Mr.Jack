@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProject/MR.JACK/cmake-build-debug/CMakeFiles/MR_JACK.dir
+C:/Users/LENOVO/CLionProject/MR.JACK/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/CLionProject/MR.JACK/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\MR_JACK.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\MR_JACK.dir/objects.a @CMakeFiles\MR_JACK.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\MR_JACK.dir/objects.a -Wl,--no-whole-archive -o MR_JACK.exe -Wl,--out-implib,libMR_JACK.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MR_JACK.dir\linklibs.rsp
